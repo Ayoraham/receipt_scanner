@@ -1,0 +1,5 @@
+opencv-python==4.12.0.88
+numpy==2.0.2
+gradio==5.50.0
+ultralytics==8.3.236
+easyocr==1.7.2
